@@ -17,6 +17,18 @@
 #         under the License.
 -->
 
+
+UNOFFICIAL VERSION NOTICE
+-------------------------
+My unofficial releases are synced against upstream/master branch.  
+Also, this releases are tested & contains the latest changes from upstream AND can contain new features/fixes that are not yet merged or released in the upstream/master branch.
+
+Consider this branch & its releases as a bleeding-edge version.  
+Contributions are welcomed!  
+**Enjoy!**
+
+-------------------------
+
 # cordova-plugin-media-capture
 
 This plugin provides access to the device's audio, image, and video capture capabilities.
