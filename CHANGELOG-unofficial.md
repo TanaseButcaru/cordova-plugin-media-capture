@@ -1,3 +1,8 @@
+# 1.2.0-unofficial-2
+
+Bump version number for npmjs.
+
+
 # 1.2.0-unofficial-1
 
 Initial unofficial release.  
