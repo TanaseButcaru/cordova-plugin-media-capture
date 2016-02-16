@@ -1,3 +1,10 @@
+# 1.2.0-unofficial-3
+
+Release notes:
+
+ *  [2d049c3](https://github.com/TanaseButcaru/cordova-plugin-media-capture-unofficial/commit/2d049c34373167463d637baa6bc5c2f1065466e8): new MediaFile() - fix wrong property name for localURL 
+
+
 # 1.2.0-unofficial-2
 
 Bump version number for npmjs.
