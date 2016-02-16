@@ -48,8 +48,12 @@ MediaFile.prototype.getFormatData = function(successCallback, errorCallback) {
 
 	//case when MediaFile is manually created, not a result of media-capture
 	if (typeof this.fullPath === "undefined" && this.localURL !== null) {
-		this.fullPath = this.localURL;
-	}
+        this.fullPath = this.localURL;
+
+        if (device.platform.toLowerCase() == 'ios' && this.fullPath.indexOf('file://') != -1) {
+            this.fullPath = this.fullPath.replace('file://', '');
+        }
+    }
 
     if (typeof this.fullPath === "undefined" || this.fullPath === null) {
         errorCallback(new CaptureError(CaptureError.CAPTURE_INVALID_ARGUMENT));
