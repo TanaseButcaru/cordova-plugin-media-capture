@@ -1,3 +1,10 @@
+# 1.2.0-unofficial-4
+
+Release notes:
+
+ *  [ebc2609](https://github.com/TanaseButcaru/cordova-plugin-media-capture-unofficial/commit/ebc26098d306d5602df59ab53445f8988d002dfb) & [2055db4](https://github.com/TanaseButcaru/cordova-plugin-media-capture-unofficial/commit/2055db45a1d858ccc654352c95d5184a7cc19f1d): new MediaFile() - fix localURL / fullPath. Added iOS path check for ``file://`` protocol. 
+
+
 # 1.2.0-unofficial-3
 
 Release notes:
