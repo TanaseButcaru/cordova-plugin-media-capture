@@ -1,6 +1,6 @@
 {
-  "name": "cordova-plugin-media-capture",
-  "version": "1.2.1-dev",
+  "name": "cordova-plugin-media-capture-unofficial",
+  "version": "1.2.0-unofficial-5",
   "description": "Cordova Media Capture Plugin",
   "cordova": {
     "id": "cordova-plugin-media-capture",
@@ -18,7 +18,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/apache/cordova-plugin-media-capture"
+    "url": "https://github.com/TanaseButcaru/cordova-plugin-media-capture-unofficial"
   },
   "keywords": [
     "cordova",
