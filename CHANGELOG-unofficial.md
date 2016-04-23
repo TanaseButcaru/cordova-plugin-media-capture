@@ -1,3 +1,10 @@
+# 1.3.0-unofficial-1
+
+Release notes:
+
+ * [14fbc2a](https://github.com/TanaseButcaru/cordova-plugin-media-capture-unofficial/commit/14fbc2a83e80a51667cddccc64887134f096173e) Sync to upstream/master
+
+
 # 1.2.0-unofficial-5
 
 Release notes:
