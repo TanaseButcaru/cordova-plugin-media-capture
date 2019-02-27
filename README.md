@@ -21,6 +21,7 @@ description: Capture audio, video, and images.
 #         under the License.
 -->
 
+# WARNING: This project is no longer maintained.
 
 UNOFFICIAL VERSION NOTICE
 -------------------------
